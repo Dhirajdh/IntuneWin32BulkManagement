@@ -69,6 +69,7 @@ The script needs an Azure AD app registration (or delegated user token) with the
 - `DeviceManagementApps.ReadWrite.All`
 - `DeviceManagementManagedDevices.Read.All` (for device status export)
 - `User.Read` (to display the signed‑in user)
+- `Group.Read.All` (to read the entra group)
 
 The least‑privilege approach is to grant **Application** permissions only when the script runs in an automated context (e.g., CI). For interactive use, a delegated token with the same scopes is sufficient.
 
