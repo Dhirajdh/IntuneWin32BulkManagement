@@ -488,13 +488,14 @@ function Get-AppGridData {
     $Apps =
         Get-IntuneWin32Apps
 
-    $GridData =
+    $GridData = @(
         foreach ($App in $Apps) {
 
             ConvertTo-AppGridObject `
                 -App $App
 
         }
+    )
 
     return $GridData
 
