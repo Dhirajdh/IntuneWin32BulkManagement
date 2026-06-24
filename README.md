@@ -32,11 +32,6 @@ IntuneWin32BulkManagement/
 ├─ XAML/
 │   ├─ MainWindow.xaml             # Main UI layout
 │   └─ AssignmentWindow.xaml       # Dialog for bulk group assignment
-│
-└─ .github/
-    ├─ ISSUE_TEMPLATE/
-    │   └─ bug_report.md           # Template for filing bugs
-    └─ PULL_REQUEST_TEMPLATE.md   # Template for PRs
 ```
 
 ### What each folder does
