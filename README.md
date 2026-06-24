@@ -11,7 +11,7 @@ IntuneWin32BulkManagement is a PowerShell‑based GUI tool that lets you bulk‑
 - Backup and restore the current app catalog.
 - Log activity and progress with a built‑in logging pane.
 
-The UI is built with WPF/XAML and runs on Windows 10/11 PowerShell 5.1+ (or PowerShell 7). It is completely client‑side – no server component is required.
+The UI is built with WPF/XAML and runs on Windows 10/11 with PowerShell 7). It is completely client‑side – no server component is required.
 
 ---
 
