@@ -88,27 +88,6 @@ The least‑privilege approach is to grant **Application** permissions only when
 
 ---
 
-## 📝 LinkedIn announcement draft
-> 🎉 Excited to open‑source **IntuneWin32BulkManagement**! 🚀
->
-> This PowerShell‑based GUI helps IT pros bulk‑manage Win32 apps in Microsoft Intune – from bulk group assignment to CSV export, all with a clean WPF interface.
->
-> 👉 Features include:
-> - One‑click connect to Intune via Microsoft Graph
-> - Live filtering & search across thousands of apps
-> - Bulk assignment of Azure AD groups (Required / Available / Uninstall)
-> - Export assignments to CSV and JSON backups
-> - Persistent UI settings & smart copy‑on‑double‑click
->
-> The repo is now on GitHub under the MIT license, with contribution guidelines, issue & PR templates, and a Code of Conduct.
->
-> 🔗 Check it out, fork it, and let me know what you think! https://github.com/your‑github‑handle/IntuneWin32BulkManagement
->
-> #PowerShell #Intune #OpenSource #Automation #ITOps
-
-Feel free to tweak the wording or add a personal touch before posting.
-
----
 
 ## 📸 Screenshots
 
@@ -119,12 +98,3 @@ Feel free to tweak the wording or add a personal touch before posting.
 | **App details popup** – copy‑on‑double‑click fields | ![App details](screenshots/app-details.png) |
 | **Log pane** – activity feed example | ![Log example](screenshots/log-example.png) |
 
-## ✅ Next steps to get this repo live
-1. Add a **LICENSE** file (MIT).  
-2. Add a **.gitignore** (PowerShell, VSCode, compiled binaries).  
-3. Add **CONTRIBUTING.md**, **CODE_OF_CONDUCT.md**, and optional **SECURITY.md**.  
-4. Create a **.github/** folder with issue & PR templates.  
-5. Commit everything, push to a new GitHub repo, enable the **Issues** tab, and add the **MIT** license badge to the README.
-6. (Optional) Set up GitHub Actions for linting (`PSScriptAnalyzer`) on PRs.
-
-Once those files are in place you can create the repository on GitHub and push the local folder.
