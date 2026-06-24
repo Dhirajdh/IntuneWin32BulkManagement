@@ -939,7 +939,7 @@ function Load-Apps {
         $pbProgress.Value = 10
         [System.Windows.Forms.Application]::DoEvents() | Out-Null
 
-        $Script:GridData = Get-AppGridData
+        $Script:GridData = @(Get-AppGridData)
         $pbProgress.Value = 70
         [System.Windows.Forms.Application]::DoEvents() | Out-Null
 
