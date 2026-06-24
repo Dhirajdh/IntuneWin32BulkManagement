@@ -93,8 +93,8 @@ The least‑privilege approach is to grant **Application** permissions only when
 
 | Feature | Screenshot |
 |---------|------------|
-| **Main window** – app list, filters, progress | ![Main window](screenshots/main-window.png) |
+| **Main window** – app list, filters, progress | ![Main window](Screenshots/main-window.png) |
 | **Assign dialog** – bulk group selection | ![Assign dialog](screenshots/assign-dialog.png) |
-| **App details popup** – copy‑on‑double‑click fields | ![App details](screenshots/app-details.png) |
-| **Log pane** – activity feed example | ![Log example](screenshots/log-example.png) |
+| **App details popup** – copy‑on‑double‑click fields | ![App details](Screenshots/app-details.png) |
+| **Log pane** – activity feed example | ![Log example](Screenshots/log-example.png) |
 
